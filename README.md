@@ -1,5 +1,5 @@
-# AWS_study
-AWS study diary 
+# AWS
+
 ## motivation
 - For personal development, backend systems
 - Demand for cloud computing increases
